@@ -1,0 +1,30 @@
+p { display: flex;
+    text-align: justify;
+    
+}
+    
+img { margin: 15px;
+
+} 
+ #maggie1{
+     float: right;
+     
+    
+ }
+
+ #maggie2{
+     float: left;
+     margin-bottom: 10px;
+  
+ }
+
+ .alinharAoCentro {
+     display: flex;
+     justify-content: center;}
+
+#video { border: turquoise solid 4px;
+        padding-bottom: 2px;
+        margin:0 auto;
+        display: block;
+
+     }

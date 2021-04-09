@@ -1,0 +1,24 @@
+p { display: flex;
+    text-align: justify;}
+
+img { margin: 15px;
+
+} 
+ #lisa1{
+     float: right;
+ }
+
+ #lisa2{
+     float: left;
+ }
+
+ .alinharAoCentro {
+     display: flex;
+     justify-content: center;
+}
+#video{ border: orangered solid 4px;
+    padding-bottom: 2px ;
+    margin:0 auto;
+    display: block;
+
+}

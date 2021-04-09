@@ -1,0 +1,29 @@
+img{
+    width: 25%;
+    height: 25%;
+    margin: 2em;
+
+}
+#imagem1{
+    float: right;
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+
+}
+#imagem2{
+    float: left;
+}
+
+
+/*remover da versão de exercício */
+p{
+    text-align: justify;
+    display: flex;
+} 
+
+#video{ border: gray solid 4px;
+    padding-bottom: 2px;
+    margin:0 auto;
+    display: block;
+
+}
